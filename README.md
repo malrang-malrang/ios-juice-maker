@@ -1,6 +1,6 @@
 # 쥬스메이커 프로젝트
-> 프로젝트 기간 2022.02.22 ~ 2022.
-팀원 : [@malrang](https://github.com/kinggoguma) [@doogie97](https://github.com/doogie97) / 리뷰어 : [@yoo-kie](https://github.com/yoo-kie)
+> 프로젝트 기간 2022.02.22 ~ 2022.3.11  
+팀원 : [@malrang](https://github.com/kinggoguma) [@doogie97](https://github.com/doogie97).  / 리뷰어 : [@yoo-kie](https://github.com/yoo-kie)
 
 - [프로젝트 팀 규칙](#프로젝트-팀-규칙)
 - [실행화면](#실행화면)
